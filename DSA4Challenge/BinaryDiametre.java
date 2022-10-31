@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class BinaryDiametre {
     Node root;
+    // linew 11 added by me
     static class Node {
         int data;
         Node left;
